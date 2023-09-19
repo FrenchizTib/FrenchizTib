@@ -5,7 +5,7 @@ Student in mechanical engineering and then commercial, I decided to reorient mys
 
 If you want to learn more and chat with me you can find me on Linkedin : 
 
-[![LI-Logo](https://github.com/FrenchizTib/FrenchizTib/assets/139383301/102b798e-3cb5-4dd4-b914-d0dd13b20795)
+[!(https://github.com/FrenchizTib/FrenchizTib/assets/139383301/102b798e-3cb5-4dd4-b914-d0dd13b20795)
 ](https://www.linkedin.com/in/thibault-bellaton-9a5640153/)
 <!--
 **FrenchizTib/FrenchizTib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
