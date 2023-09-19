@@ -4,7 +4,7 @@ I am Thibault, a French junior data scientist living in Switzerland.
 Student in mechanical engineering and then commercial, I decided to reorient myself towards the future: data science. I am more and more passionate about this field which brings so much personally and to businesses. The project possibilities are endless. I trained thanks to the organization “Le Wagon” which taught me a lot. To tell you a little more about myself, I am passionate about sports, particularly endurance sports such as running, cycling, etc. :running: :biking_man: :swimming_man:
 
 If you want to learn more and chat with me you can find me on Linkedin : 
-[![LI-In-Bug](https://github.com/FrenchizTib/FrenchizTib/assets/139383301/ea9d1139-8a9f-448c-a92f-0b2353259d7c){: width="100" height="100"}](https://www.linkedin.com/in/thibault-bellaton-9a5640153/)
+[![LI-In-Bug](https://github.com/FrenchizTib/FrenchizTib/assets/139383301/ea9d1139-8a9f-448c-a92f-0b2353259d7c)](https://www.linkedin.com/in/thibault-bellaton-9a5640153/){: width="100" height="100"}
 
 
 <!--
