@@ -5,7 +5,7 @@ Student in mechanical engineering and then commercial, I decided to reorient mys
 
 If you want to learn more and chat with me you can find me on Linkedin : 
 
-[![image](https://github.com/FrenchizTib/FrenchizTib/assets/139383301/97ca8e42-3b15-4b84-8e27-50eb318aac52)](https://www.linkedin.com/in/thibault-bellaton-9a5640153/)
+
 
 
 
