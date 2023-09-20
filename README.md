@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi there 👋 I'm Thibault 
 
 I am Thibault, a French junior data scientist living in Switzerland.
-Student in mechanical engineering and then commercial, I decided to reorient myself towards the future: data science. I am more and more passionate about this field which brings so much personally and to businesses. The project possibilities are endless. I trained thanks to the organization “Le Wagon” which taught me a lot. To tell you a little more about myself, I am passionate about sports, particularly endurance sports such as running, cycling, etc. :running: :biking_man: :swimming_man:
+Student in mechanical engineering and then salesman, I decided to reorient myself towards the future: data science. I am more and more passionate about this field which brings so much personally and to businesses. The project possibilities are endless. I trained thanks to the organization “Le Wagon” which taught me a lot. To tell you a little more about myself, I am passionate about sports, particularly endurance sports such as running, cycling, etc. :running: :biking_man: :swimming_man:
 
 **If you want to learn more or discuss don't hesitate to take a look at my LinkedIn and write to me :**
 
